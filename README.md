@@ -42,4 +42,4 @@ I am a first-year **IoT and Information Engineering student at KMITL** with a pa
 ### 📬 Let's Connect
 - **LinkedIn:** [Passawut Chutiparcharkij](https://www.linkedin.com/in/passawut-chutiparcharkij)
 - **Email:** aeeseedee7788@gmail.com
-- **Student ID:** 68010866
+- **Line:** verst7788
